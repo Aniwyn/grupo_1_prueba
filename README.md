@@ -9,11 +9,11 @@ Nuestro público objetivo se compone de entusiastas de la tecnología, aficionad
 
 # Sitios de referencia
 
-- Xiaomi argentina [xiamomistore.com](https://xiaomistore.com.ar/).
-- Xiaomi argentina [apple.com](https://www.apple.com/).
-- Xiaomi argentina [fravega.com](https://www.fravega.com/).
-- Xiaomi argentina [musimundo.com](https://www.musimundo.com/).
-- Xiaomi argentina [compragamer.com](https://compragamer.com/).
+- Xiaomi argentina: [xiamomistore.com](https://xiaomistore.com.ar/).
+- Apple: [apple.com](https://www.apple.com/).
+- Fravega: [fravega.com](https://www.fravega.com/).
+- Musimundo [musimundo.com](https://www.musimundo.com/).
+- Compra Gamer: [compragamer.com](https://compragamer.com/).
 
 # Integrantes del equipo
 
