@@ -1,4 +1,4 @@
-# Tienda de tecnologia
+# Tecnoweb
 Proyecto correspondiente a el sprint 1 de Digital House
 
 # Temática del sitio
@@ -14,6 +14,8 @@ Nuestro público objetivo se compone de entusiastas de la tecnología, aficionad
 - Fravega: [fravega.com](https://www.fravega.com/).
 - Musimundo [musimundo.com](https://www.musimundo.com/).
 - Compra Gamer: [compragamer.com](https://compragamer.com/).
+- Samsung: [samsung.com](https://www.samsung.com/ar/).
+- Personal: [personal.com.ar](https://www.personal.com.ar/).
 
 # Integrantes del equipo
 
@@ -26,3 +28,5 @@ Nuestro público objetivo se compone de entusiastas de la tecnología, aficionad
 - Gonzalez Alan J.
 - Tiano Kevin Paul
 - Tiano Jonathan Alexis
+
+# Wireframe
