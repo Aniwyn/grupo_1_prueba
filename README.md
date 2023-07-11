@@ -30,3 +30,15 @@ Nuestro público objetivo se compone de entusiastas de la tecnología, aficionad
 - Tiano Jonathan Alexis
 
 # Wireframe
+
+## Home
+![Wireframe de home.](https://github.com/Aniwyn/grupo_1_prueba/blob/master/wireframes/home.jpeg)
+
+## Detalle producto
+![Wireframe de detalle producto.](https://github.com/Aniwyn/grupo_1_prueba/blob/master/wireframes/detalle.jpeg)
+
+## Registro
+![Wireframe de registro.](https://github.com/Aniwyn/grupo_1_prueba/blob/master/wireframes/registro.jpeg)
+
+## Login
+![Wireframe de Login.](https://github.com/Aniwyn/grupo_1_prueba/blob/master/wireframes/login.jpeg)
